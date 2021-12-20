@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\layout_recorder.xml.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\layout\\recorder.xml"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\xml_prefs.xml.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\layout_datagraph.xml.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\layout\\datagraph.xml"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\StudioProjects\\Project\\Project_Shell\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
