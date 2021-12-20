@@ -8,7 +8,7 @@ an Android smartphone app that implements functions used in hearing aids
 consisting of wide dynamic range compression (WDRC) and noise reduction (NR).
 
 
-##Algorithm Explanation
+## Algorithm Explanation
 
 The Android application was designed and implemented using the flowchart
 shown below. The application was designed to process audio in real-time
