@@ -42,19 +42,25 @@ Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's docu
 In the documentation file you will have acess to the following:
 
 1 Introduction
+
 2 The App and Experiments 2
-  2.1 Implementing the App . . . . . . . . . . . . . . . . . . . . . . . 2
-  2.2 Experimental Evaluation . . . . . . . . . . . . . . . . . . . . . . 3
-    2.2.1 Real-world Captured Audios Evaluation . . . . . . . . . 3
-    2.2.2 Decision Rates Evaluation . . . . . . . . . . . . . . . . 5
-    2.2.3 Thresholds Evaluation . . . . . . . . . . . . . . . . . . 9
-    2.2.4 Application Decision Algorithm Evaluation . . . . . . . 10
-  2.3 Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-3 Android App GUI - User’s Guide 12
-  3.1 Main Screen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-  3.2 Settings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-  3.3 Output Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-4 Code Organization - User’s Guide 13
-  4.1 Project Organization . . . . . . . . . . . . . . . . . . . . . . . . 13
-  4.2 Functions Used . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
-  4.3 MatlabNative.c . . . . . . .
+
+  2.1 Implementing the App
+  
+  2.2 Experimental Evaluation
+  
+    2.2.1 Real-world Captured Audios Evaluation 
+    
+    2.2.2 Decision Rates Evaluation
+    
+    2.2.3 Thresholds Evaluation
+    2.2.4 Application Decision Algorithm Evaluation
+  2.3 Discussion
+3 Android App GUI - User’s Guide
+  3.1 Main Screen
+  3.2 Settings
+  3.3 Output Files
+4 Code Organization - User’s Guide
+  4.1 Project Organization
+  4.2 Functions Used 
+  4.3 MatlabNative.c
