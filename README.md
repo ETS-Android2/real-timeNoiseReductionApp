@@ -41,26 +41,36 @@ Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's docu
 
 In the documentation file you will have acess to the following:
 
-1 Introduction
+1-Introduction
 
-2 The App and Experiments 2
+2-The App and Experiments 2
 
-__2.1 Implementing the App
+__2.1-Implementing the App
   
-__2.2 Experimental Evaluation
+__2.2-Experimental Evaluation
   
-    2.2.1 Real-world Captured Audios Evaluation 
+___2.2.1-Real-world Captured Audios Evaluation 
     
-    2.2.2 Decision Rates Evaluation
+___2.2.2-Decision Rates Evaluation
     
-    2.2.3 Thresholds Evaluation
-    2.2.4 Application Decision Algorithm Evaluation
-  2.3 Discussion
-3 Android App GUI - User’s Guide
-  3.1 Main Screen
-  3.2 Settings
-  3.3 Output Files
-4 Code Organization - User’s Guide
-  4.1 Project Organization
-  4.2 Functions Used 
-  4.3 MatlabNative.c
+___2.2.3-Thresholds Evaluation
+
+___2.2.4-Application Decision Algorithm Evaluation
+
+__2.3-Discussion
+
+3-Android App GUI - User’s Guide
+
+__3.1-Main Screen
+
+__3.2-Settings
+
+__3.3-Output Files
+
+4 Code-Organization - User’s Guide
+
+__4.1-Project Organization
+
+__4.2-Functions Used 
+
+__4.3-MatlabNative.c
