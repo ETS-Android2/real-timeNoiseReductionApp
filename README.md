@@ -30,4 +30,7 @@ processed. The filter chosen is then used to filter the upcoming frames until
 decision rate is met again. This process it performed many times until the
 audio is fully processed.
 
-![plot](./images/algo_flowchart.jpg)
+
+<p align="center">
+  <img src="./images/algo_flowchart.jpg" />
+</p>
