@@ -42,9 +42,9 @@ Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's docu
 In the documentation file you will have acess to the following:
 
 1. Introduction
-2. The App and Experiments
-  - First nested list item
-    - Second nested list item
+1. First list item
+   - First nested list item
+     - Second nested list item
 3. Android App GUI - User’s Guide
 4. Code-Organization - User’s Guide
 
