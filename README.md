@@ -45,9 +45,9 @@ In the documentation file you will have acess to the following:
 
 2 The App and Experiments 2
 
-  2.1 Implementing the App
+__2.1 Implementing the App
   
-  2.2 Experimental Evaluation
+__2.2 Experimental Evaluation
   
     2.2.1 Real-world Captured Audios Evaluation 
     
