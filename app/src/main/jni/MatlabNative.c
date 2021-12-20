@@ -1,7 +1,4 @@
-//
-//  This copyrighted © code is written for and is part of the book
-//  Smartphone-Based Real-Time Digital Signal Processing
-//
+
 #include <jni.h>
 #include <math.h>
 #include <stdio.h>
