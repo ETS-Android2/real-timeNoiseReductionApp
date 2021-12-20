@@ -34,3 +34,27 @@ audio is fully processed.
 <p align="center">
   <img src="./images/algo_flowchart.jpg" />
 </p>
+
+## Project Documentation & Experimental Evaluation
+
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's documentation file.
+
+In the documentation file you will have acess to the following:
+
+1 Introduction
+2 The App and Experiments 2
+  2.1 Implementing the App . . . . . . . . . . . . . . . . . . . . . . . 2
+  2.2 Experimental Evaluation . . . . . . . . . . . . . . . . . . . . . . 3
+    2.2.1 Real-world Captured Audios Evaluation . . . . . . . . . 3
+    2.2.2 Decision Rates Evaluation . . . . . . . . . . . . . . . . 5
+    2.2.3 Thresholds Evaluation . . . . . . . . . . . . . . . . . . 9
+    2.2.4 Application Decision Algorithm Evaluation . . . . . . . 10
+  2.3 Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3 Android App GUI - User’s Guide 12
+  3.1 Main Screen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  3.2 Settings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  3.3 Output Files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+4 Code Organization - User’s Guide 13
+  4.1 Project Organization . . . . . . . . . . . . . . . . . . . . . . . . 13
+  4.2 Functions Used . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+  4.3 MatlabNative.c . . . . . . .
