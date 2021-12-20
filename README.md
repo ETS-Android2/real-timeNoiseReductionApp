@@ -41,11 +41,9 @@ Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's docu
 
 In the documentation file you will have acess to the following:
 
-1-Introduction
-
-2-The App and Experiments 2
-
-__2.1-Implementing the App
+1. Introduction
+2. The App and Experiments 2
+2.1. Implementing the App
   
 __2.2-Experimental Evaluation
   
