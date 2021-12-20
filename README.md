@@ -37,7 +37,7 @@ audio is fully processed.
 
 ## Project Documentation & Experimental Evaluation
 
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to access the project's documentation file.
+Click [here](https://github.com/ilucasgoncalves/real-timeNoiseReductionApp/blob/main/Project_Documentation.pdf) to access the project's documentation file.
 
 In the documentation file you will have acess to the following:
 
